@@ -134,7 +134,12 @@ df.groupby(by=['City','Card_type'])['Purchases'].sum().unstack().plot(kind='bar'
 ---
 * Relationship between Card type, Gender and Installment purchases made using stacked bar chart.
 
-  ![im]()
+  ![im](https://github.com/Rahulbirle21/Images-for-readme/blob/main/crdgeninst.png)
+  * __Observations__:
+    1. Majority of males users makes purchases in intallments.
+    2. Silver card holders make highest purchases in installments, followed by Gold card holders.
+    3. Female users holding Silver card make more purchases in installments as compared to female users who hold other type of cards.
+    4. Titanium card holders make lowest purchases in installments, followed by Platinum card holders (Higher income group).
 ---
 ---
 * Distribution of Payment amount using Histogram.
