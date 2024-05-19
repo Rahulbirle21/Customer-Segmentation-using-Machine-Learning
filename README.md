@@ -254,7 +254,14 @@ __Observation__ : Based on the elbow method,the optimum number of clusters came 
 ![im](https://github.com/Rahulbirle21/Images-for-readme/blob/main/st.png)
 
 ---
-## 6. __Project Highlights__
+
+## 6. __Power BI Dashboard
+
+![im](https://github.com/Rahulbirle21/Images-for-readme/blob/main/2024-05-19%20(3).png)
+
+---
+
+## 7. __Project Highlights__
 
    1. Easy to use and understand
    2. Open Source
